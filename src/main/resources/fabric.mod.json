@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id": "tweakos-cheat",
+  "version": "1.0.0",
+  "name": "TweakOS Cheat",
+  "entrypoints": { "client": [ "net.fabricmc.example.ExampleMod" ] },
+  "depends": { "fabricloader": ">=0.11.3", "minecraft": "1.16.5" }
+}
